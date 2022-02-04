@@ -1,0 +1,13 @@
+.graph {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
+
+.dimensionSelector {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
+
+.renderArea {
+  height: 500px;
+}
